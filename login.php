@@ -1,5 +1,5 @@
 <html>
   <head>
-    <title>Halaman Login</title>
+    <title>Login XI PPLG</title>
   </head>
 </html>
